@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jobmont/static/css/main.eeb4ae37.css",
+    "main.js": "/Jobmont/static/js/main.621194c3.js",
+    "static/js/787.3e9d3456.chunk.js": "/Jobmont/static/js/787.3e9d3456.chunk.js",
+    "index.html": "/Jobmont/index.html",
+    "main.eeb4ae37.css.map": "/Jobmont/static/css/main.eeb4ae37.css.map",
+    "main.621194c3.js.map": "/Jobmont/static/js/main.621194c3.js.map",
+    "787.3e9d3456.chunk.js.map": "/Jobmont/static/js/787.3e9d3456.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb4ae37.css",
+    "static/js/main.621194c3.js"
+  ]
+}
